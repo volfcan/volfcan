@@ -1,5 +1,5 @@
 - 👋 Hi, I’m volfcan
-- 👀 I’m interested in data science/visualizations and deep learning
+- 👀 I’m interested in data science/visualizations and deep learning and experienced in motion graphic design
 - 🌱 I’m currently learning javascript and python
 - 📫 How to reach me volcanbozkurt@gmail.com
 
